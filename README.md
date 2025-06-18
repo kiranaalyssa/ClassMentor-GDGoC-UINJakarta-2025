@@ -1,6 +1,7 @@
 # Feature Friend (Class Mentor) GDGoC UIN Jakarta
 
-![Sertifikat](img/Feature Friend Certificate_Kirana Alyssa Putri.png)
+<img src="img/Feature Friend Certificate_Kirana Alyssa Putri.png" alt="Sertifikat Mentor" width="400"/>
+
 
 ## 📌 Tentang Repositori
 Halo!👋 Ini adalah repositori dokumentasi dan arsip mentoring saya sebagai Class Mentor dalam program Google Developer Groups on Campus (GDGoC) UIN Jakarta – Beginner AI/ML Weekly Class 2025. Program ini berlangsung selama 2 bulan, mulai dari 1 Maret – 20 April 2025.
