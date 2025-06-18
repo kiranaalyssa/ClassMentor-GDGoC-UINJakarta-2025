@@ -23,4 +23,5 @@ Selama program berlangsung, saya menjalankan beberapa peran utama sebagai mentor
 * Menanyakan kondisi mentee untuk memberikan dukungan personal dan menjaga semangat mereka selama program.
 * Menyediakan ruang tanya-jawab terbuka agar mentee nyaman berdiskusi satu sama lainnya.
 
-## 📝 Catatan: Kode final proyek sepenuhnya dikerjakan oleh mentee dan tidak diunggah ke repositori ini untuk menghormati orisinalitas serta hak atas karya mereka. Yang diunggah dalam repositori ini hanyalah PPT presentasi akhir sebagai dokumentasi hasil akhir proyek mentee (Group 9).
+## 📝 Catatan: 
+Kode final proyek sepenuhnya dikerjakan oleh mentee dan tidak diunggah ke repositori ini untuk menghormati orisinalitas serta hak atas karya mereka. Yang diunggah dalam repositori ini hanyalah PPT presentasi akhir sebagai dokumentasi hasil akhir proyek mentee (Group 9).
