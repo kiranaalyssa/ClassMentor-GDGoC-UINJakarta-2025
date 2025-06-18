@@ -1,4 +1,4 @@
-# Feature Friends (Class Mentor) GDGoC UIN Jakarta
+# Feature Friend (Class Mentor) GDGoC UIN Jakarta
 ## 📌 Tentang Repositori
 Halo!👋 Ini adalah repositori dokumentasi dan arsip mentoring saya sebagai Class Mentor dalam program Google Developer Groups on Campus (GDGoC) UIN Jakarta – Beginner AI/ML Weekly Class 2025. Program ini berlangsung selama 2 bulan, mulai dari 1 Maret – 20 April 2025.
 
